@@ -3,7 +3,7 @@
 Shell script to install a Bluecoin Masternode on a Linux server running Ubuntu 16.04. Use it on your own risk.
 ***
 
-## VPS installation for version **1.1.0**
+## VPS installation for version **1.0.0**
 ```
 wget -N https://raw.githubusercontent.com/heindeep/bluecoin-installer/master/bluecoin-installer.sh
 bash bluecoin-installer.sh
